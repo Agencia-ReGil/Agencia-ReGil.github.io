@@ -15,3 +15,21 @@ title: Alojamiento
 | Hotel Riu Palace Peninsula | Cancun | El Hotel Riu Palace Peninsula All Inclusive está situado frente al mar, en la zona hotelera de Kukulcán, en Cancún. El huésped disfrutará de 4 piscinas, entretenimiento para todas las edades y régimen all inclusive 24h. | 5,999 | 18% | 
 | Hotel Krystal Grand | Cancun | El Krystal Grand Cancun se encuentra localizado en la zona hotelera de Cancún frente al mar, a 9 km del centro de la ciudad, a 28 minutos en coche del Aeropuerto de Cancún y a 10 minutos de la Plaza Kukulcán. Ofrece piscina al aire libre y spa, además de una piscina infinity EXCLUSIVA para adultos hospedándose en Club Altitude. | 5,100 | 5% | 
 | Hotel Nickelodeon | Rivera Maya | Nickelodeon Hotels & Resorts Riviera Maya fue diseñado pensando en que todos los integrantes de la familia vacacionen como niños... Tus mañanas pueden iniciar al estilo Nickelodeon en una piscina infinity en el balcón privado de tu suite de lujo con vista al mar, sí, todas las suites tienen vista al mar Los más pequeños de la familia volverán a casa con un sinfín de recuerdos Nickelodeon, cómo olvidar los deseos pedidos a Wanda y Cosmo, haber visto a una Tortuga Ninja cenando en Piazza Restaurant y otros momentos llenos de adrenalina pura en los toboganes de Aqua Nick. Para asegurarte que todos tendrán momentos maravillosos en nuestro resort, te garantizamos que somos expertos en fusionar alegría y diversión en las vacaciones familiares todo incluido mediante nuestra exclusiva experiencia Gourmet Inclusive. | 7,299 | 9% |  
+
+![image](https://user-images.githubusercontent.com/100168785/165810112-81dd0912-70fc-4066-b9f0-f93b986102e6.png)
+![image](https://user-images.githubusercontent.com/100168785/165810180-cf546d15-e3c2-48da-a010-db5aa19b5a40.png)
+
+![image](https://user-images.githubusercontent.com/100168785/165810528-27b3e081-53ab-4b04-a8aa-076597a6da4c.png)
+![image](https://user-images.githubusercontent.com/100168785/165810611-5270594a-b04e-4534-93cd-5bd2d0349d02.png)
+![image](https://user-images.githubusercontent.com/100168785/165810697-742d5715-2f80-4a99-b1ea-192952e9d43c.png)
+![image](https://user-images.githubusercontent.com/100168785/165810744-7ebaf8b5-1efe-4138-8b48-25744fe3a5a2.png)
+![image](https://user-images.githubusercontent.com/100168785/165810896-c7399cb8-246a-4f47-8e8f-de9a382ef42b.png)
+
+
+
+
+
+
+
+
+
