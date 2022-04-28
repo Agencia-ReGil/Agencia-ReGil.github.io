@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Destinos
+title: Vuelos
 ---
 # Encuentra vuelos baratos en Agencia R.Gil
 
