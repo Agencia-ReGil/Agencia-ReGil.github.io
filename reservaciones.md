@@ -6,21 +6,21 @@ title: Reservaciones
 
 <form action="https://formspree.io/f/xayvbrgk" method="post">
  <label for="name"> Nombres:</label><br> 
- <input type="text" id="name" name="name" value="Tus nombres"><br> 
+ <input type="text" id="name" name="name" value=""><br> 
  <label for="lname">Apellidos:</label><br> 
- <input type="text" id="lname" names="lname" value="Apellidos"><br> 
+ <input type="text" id="lname" names="lname" value=""><br> 
 
 <label for="email">Correo electronico:</label><br> 
- <input type="text" id="email" names="email" value="correo electronico"><br> 
+ <input type="text" id="email" names="email" value=""><br> 
  
 <label for="email">Fecha de vuelo:</label><br> 
- <input type="text" id="Fecha" names="fecha" value="vuelo"><br> 
+ <input type="text" id="Fecha" names="fecha" value=""><br> 
 	
 <label for="email">Lugar de destino:</label><br> 
- <input type="text" id="Lugar" names="lUGAR" value="destino"><br> 
+ <input type="text" id="Lugar" names="lUGAR" value=""><br> 
 
  <label for="coments">Comentarios:</label><br> 
- <input type="text" id="coments" names="coments" value="comentarios"><br> 
+ <input type="text" id="coments" names="coments" value=""><br> 
  <input type="submit" value="Enviar"><br>
 </form>
 
